@@ -18,7 +18,9 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: thirupathiboda66/node-web:v1
+        image: btarunkumar/node-amp:latest
 
         ports:
         - containerPort: 3010
+
+
